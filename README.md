@@ -1,4 +1,4 @@
-# 🎲 Programmer Calculator🎲
+# 🎲 Programmer Calculator 🎲
 It is a programmer calculator capable of binary and decimal calculations of **infinite digits**.
 
 <br/>
