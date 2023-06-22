@@ -1,9 +1,9 @@
-# 🎲Programmer Calculator🎲
+# 🎲 Programmer Calculator🎲
 It is a programmer calculator capable of binary and decimal calculations of **infinite digits**.
 
 <br/>
 
-## ⚙Requirement
+## ⚙ Requirement
 For building and running the applicaion you need:
 * `eclipse`
   * jdk1.8.0_361
@@ -11,7 +11,7 @@ For building and running the applicaion you need:
 
 <br/>
 
-## 🎮기능
+## 🎮 기능
 #### 정수 자료형의 볌위를 넘어가는 값 계산 가능 (`Biginteger 함수` 사용없이 직접구현)
 * 2진수, 10진수 계산
 * 2의 보수
@@ -22,7 +22,7 @@ For building and running the applicaion you need:
 * 계산 반복문 종로  :  `0`
 
 
-## 🎮Functions
+## 🎮 Functions
 #### It is possible to calculate the value beyond the crest of an integer data type (without `Biginteger function`)
 * Binary calculation, Decimal calculation
 * Two's complement
@@ -36,7 +36,7 @@ For building and running the applicaion you need:
 
 <br/>
 
-## 🎞DEMO
+## 🎞 DEMO
 2진수 계산(Binary calculation)
 
 ![Binary calculation](https://github.com/Ga-000/Programmer_Calculator/assets/134590236/50cb7fe8-0c49-4243-93a2-b0c42c52e669)
