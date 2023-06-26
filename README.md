@@ -18,7 +18,7 @@ For building and running the applicaion you need:
 * 기본 사칙연산  : `+`, `-`, `/`, `*`
 * SHIFT 연산  :  `<<`, `>>>`
 * 비트연산  :  AND `&`, OR `|`, XOR `^`
-* 절댓값 `abs`, 펙토리얼 `f`
+* 절댓값 `abs`, 펙토리얼 `ff`
 * 계산 반복문 종로  :  `0`
 
 
@@ -29,7 +29,7 @@ For building and running the applicaion you need:
 * Four arithmetic operations  : `+`, `-`, `/`, `*`
 * SHIFT operations  :  `<<`, `>>>`
 * Bit operations  :  AND `&`, OR `|`, XOR `^`
-* Absolute value `abs`, Factorial `f`
+* Absolute value `abs`, Factorial `ff`
 * End of calculation loop  :  `0`
   
 ![Function](https://github.com/Ga-000/Programmer_Calculator/assets/134590236/e444e803-ad5c-4a18-8fe5-4b9fd6a2330e)
