@@ -32,15 +32,16 @@ For building and running the applicaion you need:
 * Absolute value `abs`, Factorial `ff`
 * End of calculation loop  :  `0`
   
-![Function](README_img/코드정보.png)
+![Function](./README_img/코드정보.png)
 
 <br/>
 
 ## 🎞 DEMO
 2진수 계산(Binary calculation)
 
-![Binary calculation](https://github.com/Ga-000/Programmer_Calculator/assets/134590236/50cb7fe8-0c49-4243-93a2-b0c42c52e669)
+![Binary calculation](./README_img/calculator1.png)
 
 10진수 계산(Decimal calculation)
 
-![Decimal calculation](https://github.com/Ga-000/Programmer_Calculator/assets/134590236/831015c8-0cda-4df0-af58-5afe95bb9e8e)
+![Decimal calculation](./README_img/calculator2.png)
+
