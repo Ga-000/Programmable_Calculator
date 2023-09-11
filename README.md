@@ -32,7 +32,7 @@ For building and running the applicaion you need:
 * Absolute value `abs`, Factorial `ff`
 * End of calculation loop  :  `0`
   
-![Function](https://github.com/Ga-000/Programmer_Calculator/assets/134590236/e444e803-ad5c-4a18-8fe5-4b9fd6a2330e)
+![Function](README_img/코드정보.png)
 
 <br/>
 
