@@ -19,7 +19,7 @@ For building and running the applicaion you need:
 * SHIFT 연산  :  `<<`, `>>>`
 * 비트연산  :  AND `&`, OR `|`, XOR `^`
 * 절댓값 `abs`, 펙토리얼 `ff`
-* 계산 반복문 종로  :  `0`
+* 계산 반복문 종료  :  `0`
 
 
 ## 🎮 Functions
