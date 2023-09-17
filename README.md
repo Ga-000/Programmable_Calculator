@@ -1,5 +1,5 @@
-# 🎲 Programmer Calculator 🎲
-It is a programmer calculator capable of binary and decimal calculations of **infinite digits**.
+# 🎲 Programmable Calculator 🎲
+It is a programmable calculator capable of binary and decimal calculations of **infinite digits**.
 
 <br/>
 
